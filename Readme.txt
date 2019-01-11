@@ -12,3 +12,5 @@ The Services.csv file will list all the services located that are running as use
 The Exceptions.csv file will list any servers that the script was unable to query.  Common reasons for this included:
 1) The server computer account is still listed in AD but has been decommissioned
 2) The server is not responding to WMI requests because of permissions, firewall or the service not running/working.
+
+Test
